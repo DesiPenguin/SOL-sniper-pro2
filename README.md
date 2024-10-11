@@ -1,4 +1,4 @@
-<h1 align="center"> SOL_sniper2 </h1> <br>
+<h1 align="center"> SOL-sniper2 </h1> <br>
 <p align="center">
   <a href=""> 
     
@@ -25,12 +25,12 @@
 
 ## Introduction
 
-The SOL_sniper2 is an innovative tool within the thriving Solana ecosystem, specifically crafted to address a prevalent challenge that traders encounter: the risk of losing profit opportunities after acquiring tokens on the Solana network, which can result in token rug-pulls or dumps. This software not only incorporates sniping capabilities, enabling users to swiftly purchase tokens at launch, but also includes trading tools to enhance their trading positions.
+The SOL-sniper2 is an innovative tool within the thriving Solana ecosystem, specifically crafted to address a prevalent challenge that traders encounter: the risk of losing profit opportunities after acquiring tokens on the Solana network, which can result in token rug-pulls or dumps. This software not only incorporates sniping capabilities, enabling users to swiftly purchase tokens at launch, but also includes trading tools to enhance their trading positions.
 
 
 ## Features
 
-A few of the things you can do with SOL_sniper2:
+A few of the things you can do with SOL-sniper2:
 
 - Sniping: Execute buy transactions instantly when liquidity is added to an SPL token, ensuring you're among the first to buy in promising new tokens.
 - Take Profit: Automatically sell tokens at a predefined profit percentage, securing gains.
@@ -74,7 +74,7 @@ Go to the project's GitHub page, click the "Code" button and select "Download ZI
 Open a terminal and navigate to the project folder
 
 ```python
-cd SOL_sniper2
+cd SOL-sniper2
 ```
 
 - Install libraries
