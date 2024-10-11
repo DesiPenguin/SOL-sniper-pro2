@@ -52,8 +52,6 @@ sudo apt install python3
 python3 --version
 ```
 
-## Usage
-
 - Update `pip` Run the following command to update pip to the latest version
 
 ```python
@@ -84,6 +82,8 @@ Run the following command to install the required libraries for the project:
 ```python
 pip install -r requirements.txt
 ```
+
+## Usage
 
 - Run the project
 
