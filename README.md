@@ -62,7 +62,7 @@ python -m pip install --upgrade pip
 - Clone or download the project
 
 ```git 
-git clone https://github.com/DesiPenguin/SOL_SniperPro.git
+git clone https://github.com/DesiPenguin/SOL_Sniper2.git
 ```
 
 Option 2: Download the project directly
